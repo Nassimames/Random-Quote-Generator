@@ -1,0 +1,18 @@
+{
+  "@@locale": "en",
+  "appTitle": "Eclat — inspiring quotes",
+  "headerTagline": "A MOMENT FOR YOU",
+  "eyebrow": "A MOMENT FOR YOURSELF",
+  "headline": "A beautiful thought\nchanges everything.",
+  "subtitle": "Let these few words brighten your day.",
+  "quoteToKeep": "A THOUGHT TO KEEP",
+  "newQuote": "Another quote",
+  "copyQuote": "Copy quote",
+  "quoteCopied": "Quote copied to clipboard",
+  "footer": "A little light, every day.",
+  "chooseLanguage": "Choose language",
+  "languageSaveError": "Your language changed, but your choice could not be saved.",
+  "languageFrench": "Français",
+  "languageEnglish": "English",
+  "languageArabic": "العربية"
+}

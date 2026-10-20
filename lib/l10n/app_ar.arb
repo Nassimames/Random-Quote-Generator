@@ -1,0 +1,18 @@
+{
+  "@@locale": "ar",
+  "appTitle": "إشراقة — اقتباسات ملهمة",
+  "headerTagline": "لحظتك الخاصة",
+  "eyebrow": "لحظة من أجلك",
+  "headline": "فكرة جميلة\nتغيّر كل شيء.",
+  "subtitle": "دع هذه الكلمات القليلة تنير يومك.",
+  "quoteToKeep": "كلمات تستحق أن تبقى",
+  "newQuote": "اقتباس آخر",
+  "copyQuote": "نسخ الاقتباس",
+  "quoteCopied": "تم نسخ الاقتباس",
+  "footer": "قليل من النور، كل يوم.",
+  "chooseLanguage": "اختر اللغة",
+  "languageSaveError": "تم تغيير اللغة، لكن تعذّر حفظ اختيارك.",
+  "languageFrench": "Français",
+  "languageEnglish": "English",
+  "languageArabic": "العربية"
+}

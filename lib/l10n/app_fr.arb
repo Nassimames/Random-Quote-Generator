@@ -1,0 +1,18 @@
+{
+  "@@locale": "fr",
+  "appTitle": "Éclat — citations inspirantes",
+  "headerTagline": "VOTRE PARENTHÈSE",
+  "eyebrow": "UN INSTANT POUR SOI",
+  "headline": "Une belle pensée\nchange tout.",
+  "subtitle": "Laissez ces quelques mots éclairer votre journée.",
+  "quoteToKeep": "UNE PENSÉE À GARDER",
+  "newQuote": "Une autre citation",
+  "copyQuote": "Copier la citation",
+  "quoteCopied": "Citation copiée dans le presse-papiers",
+  "footer": "Un peu de lumière, chaque jour.",
+  "chooseLanguage": "Choisir la langue",
+  "languageSaveError": "La langue a changé, mais votre choix n’a pas pu être enregistré.",
+  "languageFrench": "Français",
+  "languageEnglish": "English",
+  "languageArabic": "العربية"
+}
